@@ -1,5 +1,11 @@
 body {
-background-color: black;
+background-color: #EAF6FC;
 width: 100%;
 height: 100%;
 };
+  
+.header {
+    color: purple;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
